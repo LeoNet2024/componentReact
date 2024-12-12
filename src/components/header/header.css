@@ -1,0 +1,9 @@
+.headerClass header button {
+  background-color: rgb(152, 178, 178);
+  width: 15vh;
+  height: 8vh;
+  font-size: 3vh;
+  border-radius: 9px 9px 9px 9px;
+  cursor: pointer;
+  text-transform: uppercase;
+}
