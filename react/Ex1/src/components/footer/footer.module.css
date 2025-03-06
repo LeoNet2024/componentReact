@@ -1,0 +1,23 @@
+
+
+.footer {
+  border: 3px solid red;
+}
+
+.myP {
+  color: red;
+}
+
+
+.footer p {
+  text-align: center;
+  color: green;
+}
+
+.footer span {
+  color: blue;
+  font-size: 4rem;
+}
+
+
+

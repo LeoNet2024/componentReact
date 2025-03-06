@@ -1,0 +1,30 @@
+main {
+  border: 10px solid blue;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  max-width: 1400px;
+  min-height: 100vh;
+  margin: auto;
+}
+
+.app {
+  border: 1px solid black;
+  flex: 1;
+  margin: auto;
+}
+
+.drakTheme {
+  background-color: black;
+  color: rgb(219, 9, 9);
+}
+
+button {
+  font-size: 3rem;
+  padding: 10px;
+}
+
+input {
+  font-size: 3rem;
+  padding: 10px;
+}
